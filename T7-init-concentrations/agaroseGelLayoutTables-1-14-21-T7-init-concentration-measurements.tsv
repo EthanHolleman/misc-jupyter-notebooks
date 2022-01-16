@@ -1,0 +1,41 @@
+Series	Insert Number	Prep type	Additional cleanup	Additional Cleanup tube label	Tube Number	Tube full name	Tube comments	Tube date	npH20 (ul)	Purple loading dye (ul)	Template (ul)	Volume loaded (ul)	PCR Grid Row	PCR Grid column	Well Number	Well row	Lane number relative to row	Ladder lane	Ladder	Ladder volume (ul)	Ladder concentration (ug/ul)	Total ladder (ug)	Voltage	Runtime (minutes)
+pFC9-T7-init	1	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR1-midi-D		12/18/21	9	2	1	10	C	1	1	1	1	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	2	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR2-midi-D		12/18/21	9	2	1	10	C	2	2	1	2	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	3	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR3-midi-D		12/14/21	9	2	1	10	C	3	3	1	3	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	4	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR4-midi-D		12/21/21	9	2	1	10	C	4	4	1	4	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	5	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR5-midi-D		12/14/21	9	2	1	10	C	5	5	1	5	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	6	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR6-midi-D		12/14/21	9	2	1	10	C	6	6	1	6	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	7	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR7-midi-D		12/21/21	9	2	1	10	C	7	7	1	7	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	8	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR8-midi-D		12/21/21	9	2	1	10	C	8	8	1	8	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	9	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR9-midi-D		12/14/21	9	2	1	10	C	9	9	1	9	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	10	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR10-midi-D		12/14/21	9	2	1	10	C	10	10	1	10	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	11	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR11-midi-D		12/14/21	9	2	1	10	D	1	11	1	11	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	12	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR12-midi-D		12/14/21	9	2	1	10	D	2	12	1	12	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	13	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR13-midi-D		12/14/21	9	2	1	10	D	3	13	1	13	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	14	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR14-midi-D		12/23/21	9	2	1	10	D	4	14	1	14	15	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	14	midi	Dialysis 24 hours (D)	D	3	pFC9-T7-init-VR14-3-midi-D	Dial 3 hr	12/23/21	9	2	1	10	D	5	16	2	1	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	14	midi	Dialysis 24 hours (D)	D	2	pFC9-T7-init-VR14-2-midi-D	Overnight Dialysis	12/23/21	9	2	1	10	D	6	17	2	2	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	14	midi	Dialysis 24 hours (D)	D	4	pFC9-T7-init-VR14-4-midi-D	Dial 3 hr	12/23/21	9	2	1	10	D	7	18	2	3	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	15	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR15-midi-D		12/21/21	9	2	1	10	D	8	19	2	4	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	16	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR16-midi-D		12/21/21	9	2	1	10	D	9	20	2	5	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	17	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR17-midi-D		12/12/21	9	2	1	10	D	10	21	2	6	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	17	midi	Dialysis 24 hours (D)	D	2	pFC9-T7-init-VR17-2-midi-D		12/21/21	9	2	1	10	E	1	22	2	7	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	18	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR18-midi-D			9	2	1	10	E	2	23	2	8	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	18	midi	Dialysis 24 hours (D)	D	2	pFC9-T7-init-VR18-2-midi-D		12/21/21	9	2	1	10	E	3	24	2	9	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	19	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR19-midi-D		12/5/21	9	2	1	10	E	4	25	2	10	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	19	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR19-midi-D		12/12/21	9	2	1	10	E	5	26	2	11	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	20	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR20-midi-D		12/12/21	9	2	1	10	E	6	27	2	12	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	21	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR21-midi-D		12/12/12	9	2	1	10	E	7	28	2	13	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	22	midi	Dialysis 24 hours (D)	D	2	pFC9-T7-init-VR22-2-midi-D		12/21/21	9	2	1	10	E	8	29	2	14	30	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	22	midi	Dialysis 24 hours (D)	D	1	pFC9-T7-init-VR22-1-midi-D		12/12/21	9	2	1	10	E	9	31	3	1	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	22	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR22-midi-D		12/23/21	9	2	1	10	E	10	32	3	2	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	22	midi	Dialysis 24 hours (D)	D	2	pFC9-T7-init-VR22-2-midi-D		12/23/21	9	2	1	10	F	1	33	3	3	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	23	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR23-midi-D		12/12/21	9	2	1	10	F	2	34	3	4	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	24	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR24-midi-D		12/21/21	9	2	1	10	F	3	35	3	5	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	25	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR25-midi-D		12/12/21	9	2	1	10	F	4	36	3	6	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	26	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR26-midi-D		12/12/21	9	2	1	10	F	5	37	3	7	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	27	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR27-midi-D		12/12/21	9	2	1	10	F	6	38	3	8	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	28	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR28-midi-D		12/12/21	9	2	1	10	F	7	39	3	9	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	29	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR29-midi-D		12/12/21	9	2	1	10	F	8	40	3	10	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	30	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR30-midi-D		12/12/21	9	2	1	10	F	9	41	3	11	43	Gene ruler 1kb	2	0.1	0.2	60	120
+pFC9-T7-init	31	midi	Dialysis 24 hours (D)	D		pFC9-T7-init-VR31-midi-D		12/21/21	9	2	1	10	F	10	42	3	12	43	Gene ruler 1kb	2	0.1	0.2	60	120
